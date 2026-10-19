@@ -1,2 +1,1 @@
-# trading-bot
-my BTC SMA trading bot - python + WSL2
+# BTC SMA Trading Bot - Python + WSL2 - by samvesttechnology
