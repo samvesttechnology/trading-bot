@@ -1,0 +1,6 @@
+HOLD
+SELL
+bot.log
+__pycache__/
+.env
+venv/
