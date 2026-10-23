@@ -1,6 +1,13 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Trading bot trash
 HOLD
 SELL
 bot.log
-__pycache__/
-.env
-venv/
+*.log
